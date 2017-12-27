@@ -2,7 +2,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.err.println("for test!");
+		System.out.println("for test!");
 	}
 
 }
